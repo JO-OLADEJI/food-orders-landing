@@ -1,0 +1,29 @@
+@media screen and (max-width: 700px) {
+  .Header {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+  }
+
+  .header-text {
+    padding: 5rem;
+    width: 100%;
+    text-align: center;
+  }
+
+  .header-text p {
+    margin-bottom: 2rem;
+  }
+
+  .header-illustration {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header-text {
+    padding: 3.5rem;
+  }
+}

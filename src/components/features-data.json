@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "feature": "Food Order",
+    "color": "#22A75D",
+    "points": [
+      "Point of order to point of delivery",
+      "Order placement to delivery time",
+      "View monthly reports",
+      "User management for administrators",
+      "Recieve email notifications",
+      "Manage multiple locations"
+    ]
+  },
+  {
+    "id": 2,
+    "feature": "Temperature",
+    "color": "#2278D4",
+    "points": [
+      "Set temperature ranges for food service equipment",
+      "Create equipment groups",
+      "Create employee groups",
+      "Send email notifications to supervisors",
+      "Track history and expenses for equipment repairs",
+      "Trach history for employees with outlier temperature"
+    ]
+  },
+  {
+    "id": 3,
+    "feature": "Pantry Stock Mgt.",
+    "color": "#E20613",
+    "points": [
+      "Manage items that departments can order",
+      "Manage users",
+      "Manage modifications, approval and acceptance of orders from departments",
+      "View departmental send reports"
+    ]
+  }
+]

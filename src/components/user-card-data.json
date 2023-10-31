@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "user": "Managers",
+    "color": "#22A75D",
+    "description": "Managers add users, delete users, view reports and so on"
+  },
+  {
+    "id": 2,
+    "user": "Field Agents",
+    "color": "#2278D4",
+    "description": "Field agents place orders, pickup orders and deliver orders. They are also responsible for taking temperature readings"
+  }
+]
